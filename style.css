@@ -1,0 +1,37 @@
+main{
+    font-family: Helvetica;
+    text-align: center;
+}
+#bloco-1{
+    color: white;
+    background-color: orange;
+    border: 10px groove rgba(255, 0, 0, 0.438)  ;/*groove tipo de borda*/
+    width: 300px;
+    margin: 5px; 
+  
+}
+#bloco-2{
+
+    color: white;
+    background-color: rgb(34, 219, 34);
+    border: 10px solid rgb(18, 61, 18) ; /*solid tipo de borda*/
+    width: 300px;
+    margin: 5px; 
+}
+#bloco-3{
+    color: white;
+    background-color: green;
+    border: 10px dashed rgba(255, 255, 0, 0.247) ; /*dashed é para o estilo deborda quadradinho*/
+    width: 300px;
+    margin: 5px; 
+
+       
+}
+#bloco-4{
+    color: white;
+    background-color: red;
+    border: 10px dashed rgba(238, 135, 233, 0.438)  ;
+    width: 300px;
+    margin: 5px; 
+    
+}
